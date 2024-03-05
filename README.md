@@ -1,1 +1,1 @@
-# js-image-slider-exercise
+# js-image-slider
